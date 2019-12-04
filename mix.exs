@@ -50,7 +50,8 @@ defmodule JsonWebToken.Mixfile do
     [
       maintainers: ["Gary Fleshman"],
       licenses: ["MIT"],
-      links: %{github: "https://github.com/garyf/json_web_token_ex"}
+      links: %{github: "https://github.com/garyf/json_web_token_ex"},
+      organization: "hippware"
     ]
   end
 end
